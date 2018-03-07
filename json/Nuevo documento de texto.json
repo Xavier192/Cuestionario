@@ -1,0 +1,115 @@
+
+
+[
+   {
+      "type": "text",
+      "title": "Simptoma caracterizado por una gran preocupación por diversas cosas.",
+      "answer": "ansiedad"
+   },
+   {
+      "type": "text",
+      "title": "Transtorno caracterízado por patrones prolongados de emociones turbulentas o inestables.",
+      "answer": "transtorno límite personalidad"
+   },
+   {
+      "type": "select",
+      "title": "¿Cual de entre estos es un transtorno del estado de ánimo?",
+      "option": [
+         "Transtorno de ansiedad",
+         "Demencia",
+         "autismo"
+      ],
+      "answer": "0"
+   },
+   {
+      "type": "select",
+      "title": "¿Cual de las siguientes opciones define el termino \"personalidad\"?",
+      "option": [
+         "Conjunto de rasgos mentales que los demás ven en nosotros y configuran una opinión",
+         "Conjunto de rasgos y cualidades que configuran la manera de ser de una persona y la diferencian de las demás.",
+         "Características mentales individuales en cada persona"
+      ],
+      "answer": "1"
+   },
+   {
+      "type": "multiple",
+      "title": "¿Cuales són transtornos disociativos?",
+      "option": [
+         "Transtorno afectivo bipolar",
+         "Transtorno depresivo mayor",
+         "Transtorno de ansiedad",
+         "Psicosis",
+         "personalidad múltiple"
+      ],
+      "answer": [
+         "3",
+         "4"
+      ]
+   },
+   {
+      "type": "multiple",
+      "title": "Cuales de estos medicamentos sirven para tratar la ansiedad",
+      "option": [
+         "Escitalopram",
+         "Lorazepam",
+         "Clonazepam",
+         "Termalgin",
+         "Stratera"
+      ],
+      "answer": [
+         "0",
+         "1",
+         "2"
+      ]
+   },
+   {
+      "type": "checkbox",
+      "title": "¿Cuales de estas son enfermedades mentales raras?",
+      "option": [
+         "Síndrome de Cotard",
+         "Síndrome de Capgras",
+         "Transtorno de ansiedad",
+         "depresión"
+      ],
+      "answer": [
+         "0",
+         "1"
+      ]
+   },
+   {
+      "type": "checkbox",
+      "title": "¿Cuales de estas son enfermedades mentales?",
+      "option": [
+         "Tristeza",
+         "Sindrome de haufenMollen",
+         "Sindrome del naufrago",
+         "Trastorno de Identidad de integridad corporal",
+         "Depresión"
+      ],
+      "answer": [
+         "3",
+         "4"
+      ]
+   },
+   {
+      "type": "radiobutton",
+      "title": "¿Quién fue el descubridor del inconsciente?",
+      "option": [
+         "Sigmund Freud",
+         "Albert Bandura",
+         "William James"
+      ],
+      "answer": "0"
+   },
+   {
+      "type": "radiobutton",
+      "title": "¿A que disciplina se dedicaba Carl Gustav Jung?",
+      "option": [
+         "Psicoterapia",
+         "Hipnosis",
+         "Psicoanalisis"
+      ],
+      "answer": "2"
+   }
+]
+

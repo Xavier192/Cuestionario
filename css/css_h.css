@@ -1,0 +1,201 @@
+/*reset css*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+li{
+	float: left;
+
+}
+
+li a{
+    display: block;
+    text-align: center;
+    padding: 20px 22px;
+    text-decoration: none;
+    color:#1599F2;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+#tituloHeader{
+	position:absolute;
+	left:15%;
+	top:20%;
+	font:1.1em Verdana;
+}
+header{
+	position:absolute;
+	height:200px;
+	width:100%;
+	color:#1301B7;
+	background:-moz-linear-gradient(top,#1B7AE8,#13F3EF);
+	background:-webkit-linear-gradient(top,#1B7AE8,#13F3EF);
+	z-index:1;
+}
+#logo{
+	position:absolute;
+	top:9%;
+	left:5%;
+	width:10%;
+}
+#barra_navegacion{
+	position:absolute;
+	top:180px;
+	background-color:#6CF6EF;
+	width:99.8%;
+	border:solid 2px #0B1991;
+	z-index:1;
+}
+
+
+li a:hover{
+	background-color:#F583ED;
+	color:white;
+}
+li:active{
+	transform:scale(0.95);
+}
+section{
+	border:ridge 3px black;
+	position:absolute;
+	top:290px;
+	left:5%;
+	width:90%;
+	z-index:2;
+	background:-moz-radial-gradient(ellipse,white,#ACF6C7);
+	background:-webkit-radial-gradient(ellipse,white,#ACF6C7);
+	text-shadow:#658FEF 3px 3px 6px;
+}
+
+
+#active{
+	background-color:#F583ED;
+}
+
+select{
+	position:absolute;
+	width:290px;
+	-moz-transform:scale(1.5);
+	-webkit-transform:scale(1.5);
+	margin-left:155px;
+	font-size:0.4em;
+}
+
+
+div{
+	color:black;
+	margin-left:36px;
+}
+
+input[type=text]{
+	border:1.5px solid grey;
+	box-shadow:black 3px 3px 3px;
+	-moz-transform: scale(1.5);
+	-webkit-transform:scale(1.5);
+	width:290px;
+	margin-left:145px;
+}
+input[type=checkbox],input[type=radio]{
+	-moz-transform:scale(1.8);
+	-webkit-transform:scale(1.8);
+	margin-left:70px;
+}
+
+label{
+	margin-left:20px;
+}
+
+#enviar{
+	text-align:center;
+	margin-top:50px;
+}
+
+#enviar input{
+	padding:2%;
+	font-size:1.4em;
+	background-color:#3977E3;
+	color:#02296A;
+	border:solid 3px #011E4F;
+	border-radius:10px 10px 10px 10px;
+}
+#enviar input:hover{
+	background-color:#0344B4;
+	border-color:white;
+	color:#021E4E;
+}
+
+#enviar input:active{
+	-moz-transform:scale(0.95);
+}
+
+#p1_titulo{
+	margin-top:70px;
+	margin-left:30px;
+	color:#0309C1;
+}
+
+
+.titulos{
+	margin-left:30px;
+	margin-top:150px;
+	color:#0309C1;
+}
+
+body{
+	font:2.0em bold Verdana;
+}
+#divCorreccion{
+	position:absolute;
+	width:95%;
+	left:5%;
+	margin-left:-25px;
+	top:101%;
+	display:none;
+	border:ridge 3px black ;
+	background-color:#cbf1eb;
+}
+#divCorreccion p{
+	margin-left:40px;
+	margin-top:20px;
+}
+.formato{
+	font-size:1.7em;
+	margin-top:20px;
+	color:#0309C1;
+}
+#foto_clinica{
+	width:50%;
+	margin-left:20px;
+}
+.formato2{
+	font-size:1.4em;
+	color:#0309C1;
+}
+#rojo{
+	color:red;
+}
+#divInf{
+margin-left:30px;
+}

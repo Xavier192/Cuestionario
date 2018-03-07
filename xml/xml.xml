@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questions SYSTEM "dtd.dtd">
+<questions>
+<question>
+<type>
+text
+</type>
+<title>
+Sinptoma caracterizado por una gran preocupación por diversas cosas.
+</title>
+<answer>ansiedad</answer>
+</question>
+<question>
+<type>
+text
+</type>
+<title>
+Transtorno caracterízado por patrones prolongados de emociones turbulentas o inestables.
+</title>
+<answer>transtorno límite personalidad</answer>
+</question>
+<question>
+<type>
+select
+</type>
+<title>¿Cúal de entre estos es un transtorno del estado de ánimo?</title>
+<option>Transtorno de ansiedad</option>
+<option>Demencia</option>
+<option>autismo</option>
+<answer>0</answer>
+</question>
+<question>
+<type>select</type>
+<title>¿Cual de las siguientes opciones define el término "personalidad"?</title>
+<option>Conjunto de rasgos mentales que los demás ven en nosotros y configuran una opinión</option>
+<option>Conjunto de rasgos y cualidades que configuran la manera de ser de una persona y la diferencian de las demás.</option>
+<option>Características mentales individuales en cada persona</option>
+<answer>1</answer>
+</question>
+<question>
+<type>multiple</type>
+<title>¿Cúales són transtornos disociativos?</title>
+<option>Transtorno afectivo bipolar</option>
+<option>Transtorno depresivo mayor</option>
+<option>Transtorno de ansiedad</option>
+<option>Psicosis</option>
+<option>Personalidad múltiple</option>
+<answer>3</answer>
+<answer>4</answer>
+</question>
+<question>
+<type>multiple</type>
+<title>¿Cúales de estos medicamentos sirven para tratar la ansiedad?</title>
+<option>Escitalopram</option>
+<option>Lorazepam</option>
+<option>Clonazepam</option>
+<option>Termalgin</option>
+<option>Stratera</option>
+<answer>0</answer>
+<answer>1</answer>
+<answer>2</answer>
+</question>
+<question>
+<type>checkbox</type>
+<title>¿Cúales de estas son enfermedades mentales raras?</title>
+<option>Síndrome de Cotard</option>
+<option>Síndrome de Capgras</option>
+<option>Transtorno de ansiedad</option>
+<option>depresión</option>
+<answer>0</answer>
+<answer>1</answer>
+</question>
+<question>
+<type>checkbox</type>
+<title>¿Cúales de estas son enfermedades mentales?</title>
+<option>Tristeza</option>
+<option>Sindrome de haufenMollen</option>
+<option>Sindrome del naufrago</option>
+<option>Trastorno de Identidad de integridad corporal</option>
+<option>Depresión</option>
+<answer>3</answer>
+<answer>4</answer>
+</question>
+<question>
+<type>radiobutton</type>
+<title>¿Quién fue el descubridor del inconsciente?</title>
+<option>Sigmund Freud</option>
+<option>Albert Bandura</option>
+<option>William James</option>
+<answer>0</answer>
+</question>
+<question>
+<type>radiobutton</type>
+<title>¿A que disciplina se dedicaba Carl Gustav Jung?</title>
+<option>Psicoterapia</option>
+<option>Hipnosis</option>
+<option>Psicoanálisis</option>
+<answer>2</answer>
+</question>
+</questions>

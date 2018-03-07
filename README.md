@@ -14,7 +14,9 @@ Una vez que hayamos rellenado todas las preguntas nos aparecerá un div en la pa
 ## Publicabe a facebook.  
 Si se copia el enlace de del formulario a fecebook nos aparecerá una imagén con un título que nos llevará al enlace de rawgit de nuestro formulario.
 ## Caracerísticas alternativas:  
-Consta de una versión minimificada.  
+Consta de una versión minimificada. 
+El xml valida con dtd y schema.  
+Cuando validas form.html te muestra warnings en los h3 , dice que están vacíos, en realidad se rellenan con xml.  
 Nota: El formulario consta de versión de movil y versión de escritorio con dos css uno vertical y otro horizontal.
 
 https://rawgit.com/Xavier192/Cuestionario/master/Principal.html

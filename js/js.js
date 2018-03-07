@@ -5,7 +5,7 @@ var respuestasMultiple=[];
 var respuestasCheckbox=[];
 var respuestaRadio=[];
 var nota=0;
-var url="https://rawgit.com/Xavier192/Formulario/master/xml/xml.xml"
+var url="https://github.com/Xavier192/Cuestionario/blob/master/xml/xml.xml"
 
 window.onload=function(){
 	formElement=document.getElementById("myForm");

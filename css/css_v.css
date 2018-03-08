@@ -39,9 +39,7 @@ ul{
     font-size:5vw;
 }
 #tituloHeader{
-	position:absolute;
-	left:15%;
-	top:20%;
+	margin-top: -158px;
 	font:1.1em Verdana;
 }
 header{

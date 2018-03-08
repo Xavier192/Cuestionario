@@ -85,32 +85,7 @@ section{
 }
 
 
-#imagen_facebook{
-	position:absolute;
-	top:3%;
-	width:4.6%;
-	right:15%;
 
-}
-#imagen_twitter{
-	width:5%;
-	position:absolute;
-	right:5.5%;
-	top:20%;
-}
-
-#imagen_twitter:active{
-	transform:scale(0.95);
-}
-#imagen_facebook:active{
-	transform:scale(0.95);
-}
-#imagen_twitter:hover{
-	background-color:#F583ED;
-}
-#imagen_facebook:hover{
-	background-color:#F583ED;
-}
 #active{
 	background-color:#F583ED;
 }

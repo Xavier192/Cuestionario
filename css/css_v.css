@@ -52,12 +52,11 @@ header{
 	background:-moz-linear-gradient(top,#1B7AE8,#13F3EF);
 	background:-webkit-linear-gradient(top,#1B7AE8,#13F3EF);
 	z-index:1;
+	text-align:center;
 }
 #logo{
-	position:absolute;
-	top:9%;
-	left:5%;
-	width:20%;
+	height:60%;
+	margin-top:50px;
 }
 #barra_navegacion{
 	position:absolute;

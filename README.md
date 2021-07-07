@@ -19,4 +19,4 @@ El xml valida con dtd y schema.
 Cuando validas form.html te muestra warnings en los h3 , dice que están vacíos, en realidad se rellenan con xml.    
 Nota: El formulario consta de versión de movil y versión de escritorio con dos css uno vertical y otro horizontal.
 
-https://rawgit.com/Xavier192/Cuestionario/master/Principal.html
+https://xavier192.github.io/Cuestionario/
